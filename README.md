@@ -8,13 +8,9 @@ by your own Groq key · ships as a single executable you double-click.
 
 ## Screens
 
-| Library | Practice |
+| Library | Task / Practice |
 |---|---|
-| ![Library](<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/70bdf375-bbbf-41ed-96ae-132e30738442" />
-) | ![Practice](<img width="951" height="482" alt="image" src="https://github.com/user-attachments/assets/1cf8210a-fecb-4527-bc98-42cdf7abc495" />
-) |
-
-<sub>Settings — API key, model, connection test: [`docs/settings.png`](docs/settings.png)</sub>
+| ![Library](https://github.com/user-attachments/assets/70bdf375-bbbf-41ed-96ae-132e30738442) | ![Task](https://github.com/user-attachments/assets/1cf8210a-fecb-4527-bc98-42cdf7abc495) |
 
 ---
 
